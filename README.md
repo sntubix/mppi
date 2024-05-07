@@ -4,7 +4,7 @@ Implementation of an MPPI based motion planner for autonomous driving. This code
 
 <img src="./mppi.jpg" width="520"/>
 
-## Experiments video
+## Experiments Video
 See [mppi.mp4](./mppi.mp4).
 
 ## Citation
