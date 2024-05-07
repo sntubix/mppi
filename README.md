@@ -1,4 +1,4 @@
-# MPPI
+# MPPI Motion Planning
 
 Implementation of an MPPI based motion planner for autonomous driving. This code was used for the paper "Towards a Safe Real-Time Motion Planning Framework for Autonomous Driving Systems: An MPPI Approach".
 
