@@ -7,7 +7,8 @@ Implementation of an MPPI based motion planner for autonomous driving. This code
 ## Experiments video
 See [mppi.mp4](./mppi.mp4).
 
-## How to cite this work
+## Citation
+If you find this work useful or relevant, please cite our paper:
 ```bibtex
 @article{testouri2023towards,
   title={Towards a Safe Real-Time Motion Planning Framework for Autonomous Driving Systems: An MPPI Approach},
